@@ -1,0 +1,45 @@
+.gradient-bg{
+    background: rgb(70,4,61);
+    background: linear-gradient(90deg, rgba(70,4,61,1) 0%, rgba(227,99,170,1) 52%, rgba(163,100,147,1) 100%);
+}
+
+.color1{
+    background-color: #CE7FEB;
+}
+
+.card-body{
+    background-color: #EDB4C5;
+}
+
+.color2{
+    background-color: #CDAAEA;
+}
+
+body{
+    background-color: #D3ABEB !important;
+}
+
+.bg-body-tertiary{
+    background-color: #D3ABEB !important;
+}
+
+
+.roboto-slab-title> {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.btn{
+    background-color: #E04AB4;
+}
+
+
+.background-div h1 {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+.background-div p {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
